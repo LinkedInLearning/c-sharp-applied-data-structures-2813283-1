@@ -3,6 +3,8 @@
 
 // TODO: strings are collections of characters, and are immutable
 
+// char[] c1 = new char[] {'F','i','z','z','y',' ','B','u','z','z'};
+
 
 // TODO: Be careful with string references
 
