@@ -55,10 +55,10 @@ namespace Challenge
 
         public void PrintList()
         {
-            foreach (var item in shoppingList)
-            {
-                Console.WriteLine($"Item: {item.itemName,10}, Price: {item.price:C}, Quantity: {item.quantity}");
-            }
+            // foreach (var item in shoppingList)
+            // {
+            //     Console.WriteLine($"Item: {item.itemName,10}, Price: {item.price:C}, Quantity: {item.quantity}");
+            // }
         }
     }
 }
