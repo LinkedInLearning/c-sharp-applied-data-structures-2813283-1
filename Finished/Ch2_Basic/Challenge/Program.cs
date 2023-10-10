@@ -69,7 +69,7 @@ namespace Challenge
         }
 
         public void PrintList() {
-            foreach (ShoppingItem item in shoppingList) {
+            foreach (var item in shoppingList) {
                 Console.WriteLine($"Item: {item.itemName,10}, Price: {item.price:C}, Quantity: {item.quantity}");
             }
         }
