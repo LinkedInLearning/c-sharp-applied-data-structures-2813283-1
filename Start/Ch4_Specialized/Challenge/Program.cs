@@ -15,7 +15,7 @@ namespace Challenge
             // Split the string on space character boundary
             string[] wordArray = TheString.Split(' ');
 
-            // TODO: Count the total numnber of words
+            // TODO: Count the total number of words
 
 
             // TODO: Find the longest word
@@ -49,7 +49,7 @@ namespace Challenge
             };
 
             // TODO: Convert the string array to a single string and call PrintStringStats
-            string TheText;
+            string TheText = "";
             PrintStringStats(TheText);
         }
     }
