@@ -18,7 +18,6 @@ namespace StackExample
             myStack.Push("two");
             myStack.Push("three");
             myStack.Push("four");
-            myStack.Push("five");
 
             // The Count property indicates how many elements are on the stack
             Console.WriteLine("Item count: {0}", myStack.Count);
