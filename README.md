@@ -1,7 +1,7 @@
 # C#: Applied Data Structures
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `C#: Applied Data Structures`. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![C#: Applied Data Structures][lil-thumbnail-url] 
 
 ## Instructions
 This repository contains two folders for the contents of the course:
@@ -23,6 +23,6 @@ Joe Marini has been building software professionally for some of the best known 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/c-sharp-applied-data-structures-23361126
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHlhDcLmjPIhw/learning-public-crop_675_1200/0/1703201046259?e=2147483647&v=beta&t=pHe4owQi3KDjwkwdN-Lh7_HFk6DC6uZp_Cgc-1MIIFM
 
