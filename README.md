@@ -3,6 +3,8 @@ This is the repository for the LinkedIn Learning course `C#: Applied Data Struct
 
 ![C#: Applied Data Structures][lil-thumbnail-url] 
 
+Learn how to manage data more efficiently and effectively using collection classes and data structures in C#. In this course, join instructor Joe Marini as he outlines the basic steps of how to maintain collections of data in C# and choose the right collection class that’s applicable to a wide variety of different programming scenarios. Joe begins by exploring core concepts, including the difference between generic and non-generic collections, and how to select a data structure class to meet the needs of a specific programming problem. This course covers basic collection classes and data operations in C# such as how to search and use a List and a LinkedList, as well as more advanced, specialized data structures like stacks, queues, dictionaries, ListDictionary, HybridDictionary, OrderedDictionary, StringCollection, StringBuilder, and more. Along the way, test out your new skills with applied data structures in the exercise challenges at the end of each section.
+
 ## Instructions
 This repository contains two folders for the contents of the course:
 - *Finished*: The fully finished versions of the code examples. Intended to be used as a reference and for help with troubleshooting your own code
